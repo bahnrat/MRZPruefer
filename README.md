@@ -61,6 +61,7 @@ Voraussetzung: Android Studio (Ladybug oder neuer) bzw. JDK 17 + Android SDK 34.
 
 Die App ist Datenschutzkonform. Sie benötigt lediglich Zugriff auf die Kamera.
 
+- Die App kann auch ohne Internetverbindung (offline) genutzt werden
 - Kein Internetzugriff
 - Kein Zugriff auf WLAN und Bluetooth
 - Bildschirmfotografie (Screenshoot) und Bildschirmaufnahme gesperrt (Gilt auch bei Verbindung mit PC, z.B. **Samsung LinkToWindows**, das Bild sollte dort schwarz erscheinen)
