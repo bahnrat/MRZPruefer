@@ -59,7 +59,7 @@ Voraussetzung: Android Studio (Ladybug oder neuer) bzw. JDK 17 + Android SDK 34.
 
 ## Datenschutz
 
-Die App ist Datenschutzkonform
+Die App ist Datenschutzkonform. Sie benötigt lediglich Zugriff auf die Kamera.
 
 - Kein Internetzugriff
 - Kein Zugriff auf WLAN und Bluetooth
