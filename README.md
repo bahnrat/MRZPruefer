@@ -49,9 +49,7 @@ Voraussetzung: Android Studio (Ladybug oder neuer) bzw. JDK 17 + Android SDK 34.
 - **Tests der Prüflogik:** `./gradlew test`
 -  Alternativ APK erstellen (Nutze dafür möglichst Deinen eigenen Signaturschlüssel), aufs Smartphone kopieren und dort installieren (bei der Installation wird die App durch "Google Play Protect auf Schadcode geprüft).
 - - Tipp: Mindestens 1 mal im Jahr die App aktualisieren (Projekt in Android-Studio öffnen, App-Version erhöhen, Bibliotheken aktualisieren. Dann neu kompilieren, auf Smartphone kopieren und installieren/aktualisieren).
-Mindestens
-
-Mindestens für Android 8.0 (API 26) einstellen. Keine niedere Version wählen.
+- Mindestens für Android 8.0 (API 26) einstellen. Keine niedere Version wählen.
 
 ## Aufbau
 
