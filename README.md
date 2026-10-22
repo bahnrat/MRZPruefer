@@ -48,7 +48,7 @@ Voraussetzung: Android Studio (Ladybug oder neuer) bzw. JDK 17 + Android SDK 34.
 - **Kommandozeile:** `./gradlew assembleDebug` → `app/build/outputs/apk/debug/app-debug.apk`
 - **Tests der Prüflogik:** `./gradlew test`
 -  Alternativ APK erstellen (Nutze dafür möglichst Deinen eigenen Signaturschlüssel), aufs Smartphone kopieren und dort installieren (bei der Installation wird die App durch "Google Play Protect auf Schadcode geprüft).
-- - Mindestens 1 mal im Jahr die App aktualisieren (In Android-Studio öffnen, App-Version erhöhen, Bibliotheken aktualsieren. Dann neu kompilieren und auf Smartphone kopieren/aktialisieren).
+- - Tipp: Mindestens 1 mal im Jahr die App aktualisieren (In Android-Studio öffnen, App-Version erhöhen, Bibliotheken aktualsieren. Dann neu kompilieren und auf Smartphone kopieren/aktialisieren).
 Mindestens Android 8.0 (API 26).
 
 ## Aufbau
