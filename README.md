@@ -44,7 +44,7 @@ Zusätzlich bei deutschen Ausweisen und Pässen (Aussteller D):
 
 Voraussetzung: Android Studio (Ladybug oder neuer) bzw. JDK 17 + Android SDK 34.
 
-- **Android Studio:** Ordner öffnen, Gradle-Sync abwarten, „Run“ aufs angeschlossene Handy.
+- **Android Studio:** Ordner öffnen, Gradle-Sync abwarten, „Run“ aufs angeschlossene Handy. Oder APK erstellen (Nutze dafür möglichst Deinen eigenen Signaturschlüssel), aufs Smartphone kopieren und dort installieren (bei der Installation wird die App durch "Google Play Protect auf Schadcode geprüft).
 - **Kommandozeile:** `./gradlew assembleDebug` → `app/build/outputs/apk/debug/app-debug.apk`
 - **Tests der Prüflogik:** `./gradlew test`
 
