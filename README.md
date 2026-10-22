@@ -57,6 +57,18 @@ Voraussetzung: Android Studio (Ladybug oder neuer) bzw. JDK 17 + Android SDK 34.
 - `MainActivity.java` – Kamera (CameraX) und Texterkennung (ML Kit)
 - `ResultActivity.java` – Ergebnis, Abgleichdaten und manuelle Eingabe
 
+## Datenschutz
+
+Die App ist Datenschutzkonform
+
+- Kein Internetzugriff
+- Kein Zugriff auf WLAN und Bluetooth
+- Bildschirmfotografie (Screenshoot) und Bildschirmaufnahme gesperrt
+- Datensicherung (Android Backup) gesperrt
+- Keine Datenspeicherung (Eingaben werden temporär gespeichert und beim Beenden verworfen)
+- Es werden keine Daten gesendet
+- - Hinweis: Android kann Daten zur App-Nutzung (z.B. Anzahl der Aufrufe oder Absturzdaten) sammeln und an Google senden. Um dies zu verhindern, kann man über die Einstellung "Daten und Nutzung" deaktivieren. **App-Inhalte werden jedoch nicht gespeichert und gesendet**
+
 ## Grenzen
 
 Die Prüfung sagt nur, dass die MRZ in sich stimmig und plausibel ist. Eine
