@@ -63,7 +63,7 @@ Die App ist Datenschutzkonform. Sie benötigt lediglich Zugriff auf die Kamera.
 
 - Kein Internetzugriff
 - Kein Zugriff auf WLAN und Bluetooth
-- Bildschirmfotografie (Screenshoot) und Bildschirmaufnahme gesperrt (Gilt auch bei Verbindung mit PC, z.B. ++Samsung LinkToWindows**, Das Bild sollte dort schwarz erscheinen)
+- Bildschirmfotografie (Screenshoot) und Bildschirmaufnahme gesperrt (Gilt auch bei Verbindung mit PC, z.B. **Samsung LinkToWindows**, Das Bild sollte dort schwarz erscheinen)
 - Datensicherung (Android Backup) gesperrt
 - Keine Datenspeicherung (Eingaben werden temporär gespeichert und beim Beenden verworfen)
 - Es werden keine Daten gesendet
