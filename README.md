@@ -72,6 +72,6 @@ Die App ist Datenschutzkonform. Sie benötigt lediglich Zugriff auf die Kamera.
 
 ## Grenzen
 
-Die Prüfung sagt nur, dass die MRZ in sich stimmig und plausibel ist. Eine
-Fälschung mit korrekt berechneten Prüfziffern erkennt sie nicht. Die App
-speichert keine Daten.
+- Die Prüfung sagt nur, dass die MRZ in sich stimmig und plausibel ist. Eine
+Fälschung mit korrekt berechneten Prüfziffern erkennt sie nicht.
+- Die Echtheitsprüfung habe ich aufgrund unklarer Rechtslage nicht integriert.
